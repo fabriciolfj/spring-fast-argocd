@@ -3,5 +3,5 @@ app:
   replicas: 2
 image:
   repository: fabricio211/product-service
-  tag: 4b4e921412d96a12e110b1202c866adfa10d0069
+  tag: 9b2bcf9a96ede47b3f005f77157bb5f2e8e5b132
   registry: docker.io
